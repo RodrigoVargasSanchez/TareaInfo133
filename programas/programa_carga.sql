@@ -1,0 +1,29 @@
+LOAD DATA LOCAL INFILE "/home/edgardo/Downloads/Comuna_FINAL.csv" 
+INTO TABLE Comuna FIELDS 
+TERMINATED BY ';' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 LINES;
+
+LOAD DATA LOCAL INFILE "/home/edgardo/Downloads/Centros_de_Salud_FINAL.csv" 
+INTO TABLE Centros_Salud FIELDS 
+TERMINATED BY ',' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 LINES;
+
+LOAD DATA LOCAL INFILE "/home/edgardo/Downloads/Entretencion_FINAL.csv" 
+INTO TABLE Entretencion FIELDS 
+TERMINATED BY ',' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 LINES;
+
+LOAD DATA LOCAL INFILE "/home/edgardo/Downloads/Educacion_FINAL.csv" 
+INTO TABLE Educacion FIELDS
+TERMINATED BY ',' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 LINES;
+
+LOAD DATA LOCAL INFILE "/home/edgardo/Downloads/Trabajo_FINAL.csv" 
+INTO TABLE Panorama_laboral FIELDS 
+TERMINATED BY ',' 
+LINES TERMINATED BY '\r\n' 
+IGNORE 1 LINES;

@@ -1,0 +1,347 @@
+﻿id_comuna;pais;region;nombre_comuna;poblacion
+1;Chile;Arica y Parinacota;Arica;221364
+2;Chile;Arica y Parinacota;Camarones;1255
+3;Chile;Arica y Parinacota;Putre;2765
+4;Chile;Arica y Parinacota;General Lagos;684
+5;Chile;Tarapacá;Iquique;339090
+6;Chile;Tarapacá;Alto Hospicio;108375
+7;Chile;Tarapacá;Pozo Almonte;15711
+8;Chile;Tarapacá;Camiña;1250
+9;Chile;Tarapacá;Colchane;1728
+10;Chile;Tarapacá;Huara;2730
+11;Chile;Tarapacá;Pica;9296
+12;Chile;Antofagasta;Antofagasta;361873
+13;Chile;Antofagasta;Mejillones;13467
+14;Chile;Antofagasta;Sierra Gorda;10186
+15;Chile;Antofagasta;Taltal;13317
+16;Chile;Antofagasta;Calama;165731
+17;Chile;Antofagasta;Ollagüe;321
+18;Chile;Antofagasta;San Pedro de Atacama;10996
+19;Chile;Antofagasta;Tocopilla;25186
+20;Chile;Antofagasta;Maria Elena;6457
+21;Chile;Atacama;Copiapó;286168
+22;Chile;Atacama;Caldera;17662
+23;Chile;Atacama;Tierra Amarilla;14019
+24;Chile;Atacama;Chañaral;12219
+25;Chile;Atacama;Diego de Almagro;13925
+26;Chile;Atacama;Vallenar;51917
+27;Chile;Atacama;Alto del Carmen;5299
+28;Chile;Atacama;Freirina;7041
+29;Chile;Atacama;Huasco;10149
+30;Chile;Coquimbo;La Serena;221054
+31;Chile;Coquimbo;Coquimbo;227730
+32;Chile;Coquimbo;Andacollo;11044
+33;Chile;Coquimbo;La Higuera;4241
+34;Chile;Coquimbo;Paiguano;4497
+35;Chile;Coquimbo;Vicuña;27771
+36;Chile;Coquimbo;Illapel;30848
+37;Chile;Coquimbo;Canela;9093
+38;Chile;Coquimbo;Los Vilos;21382
+39;Chile;Coquimbo;Salamanca;29347
+40;Chile;Coquimbo;Ovalle;111272
+41;Chile;Coquimbo;Combarbalá;13322
+42;Chile;Coquimbo;Monte Patria;30751
+43;Chile;Coquimbo;Punitaqui;10956
+44;Chile;Coquimbo;Río Hurtado;4278
+45;Chile;Valparaíso;Valparaiso;296655
+46;Chile;Valparaíso;Casablanca;26867
+47;Chile;Valparaíso;Con Con;42152
+48;Chile;Valparaíso;Juan Fernández;926
+49;Chile;Valparaíso;Puchuncaví;18546
+50;Chile;Valparaíso;Quintero;31923
+51;Chile;Valparaíso;Viña del Mar;334248
+52;Chile;Valparaíso;Isla de Pascua;7750
+53;Chile;Valparaíso;Los Andes;66708
+54;Chile;Valparaíso;Calle Larga;14832
+55;Chile;Valparaíso;Rinconada;10207
+56;Chile;Valparaíso;San Esteban;18855
+57;Chile;Valparaíso;La Ligua;35390
+58;Chile;Valparaíso;Cabildo;19388
+59;Chile;Valparaíso;Papudo;6356
+60;Chile;Valparaíso;Petorca;9826
+61;Chile;Valparaíso;Zapallar;7339
+62;Chile;Valparaíso;Quillota;90517
+63;Chile;Valparaíso;Calera;50554
+64;Chile;Valparaíso;Hijuelas;17988
+65;Chile;Valparaíso;La Cruz;22098
+66;Chile;Valparaíso;Nogales;2212
+67;Chile;Valparaíso;San Antonio;91350
+68;Chile;Valparaíso;Algarrobo;13817
+69;Chile;Valparaíso;Cartagena;22738
+70;Chile;Valparaíso;El Quisco;15955
+71;Chile;Valparaíso;El Tabo;13286
+72;Chile;Valparaíso;Santo Domingo;10900
+73;Chile;Valparaíso;San Felipe;76844
+74;Chile;Valparaíso;Catemu;13998
+75;Chile;Valparaíso;Llaillay;24608
+76;Chile;Valparaíso;Panquehue;7273
+77;Chile;Valparaíso;Putaendo;16754
+78;Chile;Valparaíso;Santa Maria;15241
+79;Chile;Valparaíso;Quilpue;151708
+80;Chile;Valparaíso;Limache;46121
+81;Chile;Valparaíso;Olmué;17516
+82;Chile;Valparaíso;Villa Alemana;126548
+83;Chile;Metropolitana;Santiago;404495
+84;Chile;Metropolitana;Cerrillos;80832
+85;Chile;Metropolitana;Cerro Navia;132622
+86;Chile;Metropolitana;Conchalí;126955
+87;Chile;Metropolitana;El Bosque;162505
+88;Chile;Metropolitana;Estación Central;147041
+89;Chile;Metropolitana;Huechuraba;98671
+90;Chile;Metropolitana;Independencia;100281
+91;Chile;Metropolitana;La Cisterna;90119
+92;Chile;Metropolitana;La Florida;366916
+93;Chile;Metropolitana;La Granja;116571
+94;Chile;Metropolitana;La Pintana;177335
+95;Chile;Metropolitana;La Reina;92787
+96;Chile;Metropolitana;Las Condes;294838
+97;Chile;Metropolitana;Lo Barnechea;105833
+98;Chile;Metropolitana;Lo Espejo;98804
+99;Chile;Metropolitana;Lo Prado;96249
+100;Chile;Metropolitana;Macul;116534
+101;Chile;Metropolitana;Maipu;521627
+102;Chile;Metropolitana;Ñuñoa;208237
+103;Chile;Metropolitana;Pedro Aguirre Cerda;101174
+104;Chile;Metropolitana;Peñalolén;241599
+105;Chile;Metropolitana;Providencia;142079
+106;Chile;Metropolitana;Pudahuel;230293
+107;Chile;Metropolitana;Quilicura;210410
+108;Chile;Metropolitana;Quinta Normal;110026
+109;Chile;Metropolitana;Recoleta;157851
+110;Chile;Metropolitana;Renca;147151
+111;Chile;Metropolitana;San Joaquín;94492
+112;Chile;Metropolitana;San Miguel;107954
+113;Chile;Metropolitana;San Ramón;82900
+114;Chile;Metropolitana;Vitacura;85384
+115;Chile;Metropolitana;Puente Alto;568106
+116;Chile;Metropolitana;Pirque;26521
+117;Chile;Metropolitana;San José de Maipo;18189
+118;Chile;Metropolitana;Colina;146207
+119;Chile;Metropolitana;Lampa;102034
+120;Chile;Metropolitana;Tiltil;19312
+121;Chile;Metropolitana;San Bernardo;301313
+122;Chile;Metropolitana;Buin;96614
+123;Chile;Metropolitana;Calera de Tango;25392
+124;Chile;Metropolitana;Paine;72759
+125;Chile;Metropolitana;Melipilla;123627
+126;Chile;Metropolitana;Alhué;6444
+127;Chile;Metropolitana;Curacaví;32579
+128;Chile;Metropolitana;Maria Pinto;13590
+129;Chile;Metropolitana;San Pedro;9726
+130;Chile;Metropolitana;Talagante;74237
+131;Chile;Metropolitana;El Monte;35923
+132;Chile;Metropolitana;Isla de Maipo;36219
+133;Chile;Metropolitana;Padre Hurtado;63250
+134;Chile;Metropolitana;Peñaflor;90201
+135;Chile;O´Higgins;Rancagua;241774
+136;Chile;O´Higgins;Codegua;12988
+137;Chile;O´Higgins;Coinco;7359
+138;Chile;O´Higgins;Coltauco;19597
+139;Chile;O´Higgins;Doñihue;20887
+140;Chile;O´Higgins;Graneros;33437
+141;Chile;O´Higgins;Las Cabras;24640
+142;Chile;O´Higgins;Machalí;52505
+143;Chile;O´Higgins;Malloa;13407
+144;Chile;O´Higgins;Mostazal;25343
+145;Chile;O´Higgins;Olivar;13608
+146;Chile;O´Higgins;Peumo;14313
+147;Chile;O´Higgins;Pichidegua;19714
+148;Chile;O´Higgins;Quinta de Tilcoco;13002
+149;Chile;O´Higgins;Rengo;58825
+150;Chile;O´Higgins;Requínoa;27968
+151;Chile;O´Higgins;San Vicente;46766
+152;Chile;O´Higgins;Pichilemu;16394
+153;Chile;O´Higgins;La Estrella;3041
+154;Chile;O´Higgins;Litueche;6294
+155;Chile;O´Higgins;Marchihue;7308
+156;Chile;O´Higgins;Navidad;6641
+157;Chile;O´Higgins;Paredones;6188
+158;Chile;O´Higgins;San Fernando;73973
+159;Chile;O´Higgins;Chepica;15037
+160;Chile;O´Higgins;Chimbarongo;35399
+161;Chile;O´Higgins;Lolol;6811
+162;Chile;O´Higgins;Nancagua;17833
+163;Chile;O´Higgins;Palmilla;12482
+164;Chile;O´Higgins;Peralillo;11007
+165;Chile;O´Higgins;Placilla;8738
+166;Chile;O´Higgins;Pumanque;3421
+167;Chile;O´Higgins;Santa Cruz;37855
+168;Chile;Maule;Talca;220357
+169;Chile;Maule;Constitución;46068
+170;Chile;Maule;Curepto;9448
+171;Chile;Maule;Empedrado;4142
+172;Chile;Maule;Maule;49721
+173;Chile;Maule;Pelarco;8422
+174;Chile;Maule;Pencahue;8245
+175;Chile;Maule;Río Claro;13906
+176;Chile;Maule;San Clemente;43269
+177;Chile;Maule;San Rafael;9191
+178;Chile;Maule;Cauquenes;40441
+179;Chile;Maule;Chanco;8928
+180;Chile;Maule;Pelluhue;7571
+181;Chile;Maule;Curicó;149136
+182;Chile;Maule;Hualañé;9657
+183;Chile;Maule;Licantén;6653
+184;Chile;Maule;Molina;45976
+185;Chile;Maule;Rauco;10484
+186;Chile;Maule;Romeral;15187
+187;Chile;Maule;Sagrada Familia;18544
+188;Chile;Maule;Teno;28921
+189;Chile;Maule;Vichuquén;4322
+190;Chile;Maule;Linares;93602
+191;Chile;Maule;Colbún;20765
+192;Chile;Maule;Longaví;30534
+193;Chile;Maule;Parral;41637
+194;Chile;Maule;Retiro;19974
+195;Chile;Maule;San Javier;45547
+196;Chile;Maule;Villa Alegre;16221
+197;Chile;Maule;Yerbas Buenas;18081
+198;Chile;Ñuble;Chillán;184739
+199;Chile;Ñuble;Bulnes;21493
+200;Chile;Ñuble;Chillán Viejo;30907
+201;Chile;Ñuble;El Carmen;12044
+202;Chile;Ñuble;Pemuco;8448
+203;Chile;Ñuble;Pinto;10827
+204;Chile;Ñuble;Quillon;17485
+205;Chile;Ñuble;San Ignacio;16079
+206;Chile;Ñuble;Yungay;17787
+207;Chile;Ñuble;Quirihue;11594
+208;Chile;Ñuble;Cobquecura;5012
+209;Chile;Ñuble;Coelemu;15995
+210;Chile;Ñuble;Ninhue;5213
+211;Chile;Ñuble;Portezuelo;4862
+212;Chile;Ñuble;Ranquil;5755
+213;Chile;Ñuble;Treguaco;5401
+214;Chile;Ñuble;San Carlos;53024
+215;Chile;Ñuble;Coihueco;26881
+216;Chile;Ñuble;Ñiquén;11152
+217;Chile;Ñuble;San Fabián;4308
+218;Chile;Ñuble;San Nicolás;11603
+219;Chile;BioBío;Concepción;223574
+220;Chile;BioBío;Coronel;116262
+221;Chile;BioBío;Chiguayante;85938
+222;Chile;BioBío;Florida;10624
+223;Chile;BioBío;Hualqui;24333
+224;Chile;BioBío;Lota;43535
+225;Chile;BioBío;Penco;47367
+226;Chile;BioBío;San Pedro de la Paz;131808
+227;Chile;BioBío;Santa Juana;13749
+228;Chile;BioBío;Talcahuano;151749
+229;Chile;BioBío;Tome;54946
+230;Chile;BioBío;Hualpén;91773
+231;Chile;BioBío;Lebu;25522
+232;Chile;BioBío;Arauco;36257
+233;Chile;BioBío;Cañete;34537
+234;Chile;BioBío;Contulmo;6031
+235;Chile;BioBío;Curanilahue;32288
+236;Chile;BioBío;Los Álamos;21035
+237;Chile;BioBío;Tirúa;10417
+238;Chile;BioBío;Los Ángeles;202331
+239;Chile;BioBío;Antuco;4073
+240;Chile;BioBío;Cabrero;28573
+241;Chile;BioBío;Laja;22389
+242;Chile;BioBío;Mulchén;29627
+243;Chile;BioBío;Nacimiento;26315
+244;Chile;BioBío;Negrete;9737
+245;Chile;BioBío;Quilaco;3988
+246;Chile;BioBío;Quilleco;9587
+247;Chile;BioBío;San Rosendo;3412
+248;Chile;BioBío;Santa Bárbara;13773
+249;Chile;BioBío;Tucapel;14134
+250;Chile;BioBío;Yumbel;21198
+251;Chile;BioBío;Alto Biobío;5923
+252;Chile;Araucanía;Temuco;282415
+253;Chile;Araucanía;Carahue;24533
+254;Chile;Araucanía;Cunco;17526
+255;Chile;Araucanía;Curarrehue;7489
+256;Chile;Araucanía;Freire;24606
+257;Chile;Araucanía;Galvarino;11996
+258;Chile;Araucanía;Gorbea;14414
+259;Chile;Araucanía;Lautaro;38013
+260;Chile;Araucanía;Loncoche;23612
+261;Chile;Araucanía;Melipeuco;6138
+262;Chile;Araucanía;Nueva Imperial;32510
+263;Chile;Araucanía;Padre Las Casas;76126
+264;Chile;Araucanía;Perquenco;6905
+265;Chile;Araucanía;Pitrufquén;24837
+266;Chile;Araucanía;Pucón;28523
+267;Chile;Araucanía;Saavedra;12450
+268;Chile;Araucanía;Teodoro Schmidt;15045
+269;Chile;Araucanía;Toltén;9722
+270;Chile;Araucanía;Vilcun;28151
+271;Chile;Araucanía;Villarrica;55478
+272;Chile;Araucanía;Cholchol;11611
+273;Chile;Araucanía;Angol;53262
+274;Chile;Araucanía;Collipulli;24598
+275;Chile;Araucanía;Curacautín;17413
+276;Chile;Araucanía;Ercilla;7733
+277;Chile;Araucanía;Lonquimay;10251
+278;Chile;Araucanía;Los Sauces;7265
+279;Chile;Araucanía;Lumaco;9548
+280;Chile;Araucanía;Purén;11779
+281;Chile;Araucanía;Renaico;10250
+282;Chile;Araucanía;Traiguén;18843
+283;Chile;Araucanía;Victoria;34182
+284;Chile;Los Ríos;Valdivia;16608
+285;Chile;Los Ríos;Corral;5302
+286;Chile;Los Ríos;Lanco;16752
+287;Chile;Los Ríos;Los Lagos;19634
+288;Chile;Los Ríos;Máfil;7095
+289;Chile;Los Ríos;Mariquina;21278
+290;Chile;Los Ríos;Paillaco;20188
+291;Chile;Los Ríos;Panguipulli;34539
+292;Chile;Los Ríos;La Unión;38036
+293;Chile;Los Ríos;Futrono;14665
+294;Chile;Los Ríos;Lago Ranco;9896
+295;Chile;Los Ríos;Río Bueno;31372
+296;Chile;Los Lagos;Puerto Montt;245902
+297;Chile;Los Lagos;Calbuco;33985
+298;Chile;Los Lagos;Cochamó;4023
+299;Chile;Los Lagos;Fresia;12261
+300;Chile;Los Lagos;Frutillar;18428
+301;Chile;Los Lagos;Los Muermos;17068
+302;Chile;Los Lagos;Llanquihue;17591
+303;Chile;Los Lagos;Maullín;14216
+304;Chile;Los Lagos;Puerto Varas;44578
+305;Chile;Los Lagos;Castro;43807
+306;Chile;Los Lagos;Ancud;38991
+307;Chile;Los Lagos;Chonchi;14858
+308;Chile;Los Lagos;Curaco de Vélez;3829
+309;Chile;Los Lagos;Dalcahue;13762
+310;Chile;Los Lagos;Puqueldón;3921
+311;Chile;Los Lagos;Queilén;5385
+312;Chile;Los Lagos;Quellón;27192
+313;Chile;Los Lagos;Quemchi;8352
+314;Chile;Los Lagos;Quinchao;8088
+315;Chile;Los Lagos;Osorno;161460
+316;Chile;Los Lagos;Puerto Octay;8999
+317;Chile;Los Lagos;Purranque;20369
+318;Chile;Los Lagos;Puyehue;11667
+319;Chile;Los Lagos;Río Negro;14085
+320;Chile;Los Lagos;San Juan de la Costa;7512
+321;Chile;Los Lagos;San Pablo;10030
+322;Chile;Aysén;Chaitén;5071
+323;Chile;Aysén;Futaleufú;2623
+324;Chile;Aysén;Hualaihué;8944
+325;Chile;Aysén;Palena;1711
+326;Chile;Aysén;Coyhaique;57818
+327;Chile;Aysén;Lago Verde;852
+328;Chile;Aysén;Aysén;23959
+329;Chile;Aysén;Cisnes;6517
+330;Chile;Aysén;Guaitecas;1843
+331;Chile;Aysén;Cochrane;3490
+332;Chile;Aysén;O'Higgins;625
+333;Chile;Aysén;Tortel;523
+334;Chile;Aysén;Chile Chico;4865
+335;Chile;Aysén;Río Ibáñez;2666
+336;Chile;Magallanes;Punta Arenas;131592
+337;Chile;Magallanes;Laguna Blanca;165099
+338;Chile;Magallanes;Río Verde;165099
+339;Chile;Magallanes;San Gregorio;799
+340;Chile;Magallanes;Cabo de Hornos;2063
+341;Chile;Antártica;Antártica;165099
+342;Chile;Magallanes;Porvenir;6801
+343;Chile;Magallanes;Primavera;1158
+344;Chile;Magallanes;Timaukel;165099
+345;Chile;Magallanes;Natales;21477
+346;Chile;Magallanes;Torres del Paine;1209

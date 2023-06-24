@@ -1,0 +1,140 @@
+id_entretencion,id_comuna,categoria_entretencion,nombre_entretencion,ubicacion_entretencion
+20000,12,Cine,CineHoyts,Mallplaza Antofagasta
+20001,12,Cine,CineHoyts,Espacio Urbano Antofagasta
+20002,12,Estadio,Estadio Regional Calvo y Bascuñán,"Calle Uribe 2198, Antofagasta, Chile"
+20003,12,Casino,Enjoy Antofagasta,"Av. Angamos 01455, Antofagasta, Región de Antofagasta, Chile"
+20004,16,Cine,CineHoyts,Mallplaza Calama
+20005,16,Estadio,Estadio Zorros del Desierto,"Río Loa 2201, Calama, Chile"
+20006,16,Casino,Marina del Sol Calama,"Av. Balmaceda 3249, Calama, Región de Antofagasta, Chile"
+20007,40,Cine,CineHoyts,Ovalle
+20008,40,Cine,CineMark,Av. Benavente 1075
+20009,40,Estadio,Estadio Municipal Luis Navarro Avilés,"Avenida Manuel Peñafiel 1200, Ovalle, Chile"
+20010,40,Casino,Ovalle Casino & Resort,"Av. Manuel Peñafiel 1667, Ovalle, Región de Coquimbo, Chile"
+20011,45,Cine,CineHoyts,Valparaíso
+20012,45,Cine,CineMark,"Av. Libertad 1348, Local 301"
+20013,45,Cine,CinePlanet,Av. Argentina 602 Local 401
+20014,45,Estadio,Estadio Elías Figueroa Brander,"Av. Errázuriz 3300, Playa Ancha, Valparaíso, Chile"
+20015,31,Cine,Cinépolis,Vivo Coquimbo
+20016,31,Estadio,Estadio Francisco Sánchez Rumoroso,"Av. La Cantera 2499, Coquimbo, Chile"
+20017,31,Casino,Enjoy Coquimbo,"Peñuelas Norte 56, Coquimbo, Región de Coquimbo, Chile"
+20018,62,Cine,Cinépolis,Shopping Quillota
+20019,62,Estadio,Estadio Municipal Nicolás Chahuán Nazar,"18 de Septiembre 2222, Quillota, Chile"
+20020,62,Estadio,Estadio Fiscal Antonio Rispoli Díaz,"Avenida Baquedano 1532, Quillota, Chile"
+20021,107,Cine,CineHoyts,Arauco Quilicura
+20022,107,Estadio,Estadio Municipal Ítalo Composto Scarpatti,"Vicuña Mackenna 4650, Quilicura, Santiago, Chile"
+20023,101,Cine,CineHoyts,Arauco Maipú
+20024,101,Cine,Cinépolis,Patio Outlet Maipú
+20025,101,Cine,CineMark,Camino a Melipilla 15900
+20026,101,Estadio,Estadio Santiago Bueras,"Primera Transversal 3949, Maipú, Santiago, Chile"
+20027,125,Cine,CineHoyts,Espacio Urbano Melipilla
+20028,125,Estadio,Estadio Roberto Bravo Santibáñez,"Vicuña Mackenna 1600, Melipilla, Chile"
+20029,125,Estadio,Estadio Municipal Joaquín Muñoz García,"Avenida Vicente Valdés 121, Melipilla, Chile"
+20030,83,Cine,Cinépolis,Vivo Imperio
+20031,83,Cine,CineHoyts,Arauco Estación
+20032,83,Cine,CineMark,"Av. Vicuña Mackena 7110, Local 158"
+20033,83,Cine,CinePlanet,Alameda N 3349 Local CN400
+20034,83,Estadio,Estadio Nacional Julio Martínez Prádanos,"Av. Grecia 2001, Ñuñoa, Santiago, Chile"
+20035,83,Estadio,Estadio Municipal Leonel Sánchez Lineros,"Arturo Prat 2022, Independencia, Santiago, Chile"
+20036,83,Casino,Enjoy Santiago,"Av. Alonso de Córdova 2465, Vitacura, Santiago, Chile"
+20037,95,Cine,Cinépolis,La Reina
+20038,102,Cine,Cinépolis,Mallplaza Egaña
+20039,102,Cine,Cinépolis,Mallplaza Egaña VIP
+20040,102,Cine,CineMark,"Av. Jose Pedro Alessandri 1166, local 4033"
+20041,96,Cine,Cinépolis,Mallplaza Los Dominicos
+20042,96,Cine,Cinépolis,Mallplaza Los Dominicos VIP
+20043,96,Cine,CineHoyts,Parque Arauco
+20044,96,Cine,CineHoyts,Parque Arauco Premium Class
+20045,96,Cine,CineMark,"Av. Kennedy 90001, Local 3092"
+20046,96,Estadio,Estadio San Carlos de Apoquindo,"Camino El Alba 11805, Las Condes, Santiago, Chile"
+20047,114,Cine,Cinépolis,CasaCostanera
+20048,97,Cine,Cinépolis,Paseo Los Trapenses
+20049,97,Estadio,Estadio Municipal de Lo Barnechea,"Avenida José Alcalde Délano 10915, Lo Barnechea, Santiago, Chile"
+20050,214,Cine,CineHoyts,Paseo Los Dominicos (San Carlos)
+20051,121,Cine,CineHoyts,Mallplaza Sur
+20052,121,Cine,CineHoyts,Paseo San Bernardo
+20053,92,Cine,CineHoyts,Vivo Outlet La Florida
+20054,92,Cine,CinePlanet,Av. Vicuña Mackena 6100
+20055,92,Estadio,Estadio Bicentenario de La Florida,"Av. Vicuña Mackenna 12100, La Florida, Santiago, Chile"
+20056,115,Cine,Cinépolis,Espacio Urbano Puente Alto
+20057,115,Cine,Cinépolis,Plazuela Independencia Puente Alto
+20058,115,Cine,CineMark,Av. Camilo Enriquez 3690
+20059,158,Cine,CineHoyts,Vivo San Fernando
+20060,168,Cine,CineHoyts,Plaza Maule Talca
+20061,168,Estadio,Estadio Fiscal de Talca,"1 Sur 7 y 8 Oriente, Talca, Chile"
+20062,168,Casino,Gran Casino de Talca,"Av. Circunvalación Oriente 1055, Talca, Región del Maule, Chile"
+20063,198,Cine,CineHoyts,Arauco Chillán
+20064,198,Estadio,Estadio Bicentenario Nelson Oyarzún,"Arturo Prat 940, Chillán, Chile"
+20065,198,Casino,Marina del Sol Chillán,"Av. Bernardo O'Higgins 660, Chillán, Región de Ñuble, Chile"
+20066,238,Cine,CineHoyts,Mallplaza Los Ángeles
+20067,238,Estadio,Estadio Municipal de Los Ángeles,"Río Los Ángeles 790, Los Ángeles, Chile"
+20068,238,Casino,Gran Casino Los Ángeles,"Colo Colo 565, Los Ángeles, Región del Biobío, Chile"
+20069,252,Cine,CineHoyts,Edificio París
+20070,252,Cine,Cinépolis,Vivo Outlet Temuco
+20071,252,Cine,CinePlanet,Av. Alemania 671
+20072,252,Estadio,Estadio Germán Becker,"Pablo Neruda 01300, Temuco, Chile"
+20073,252,Casino,Dreams Temuco,"Av. Alemania 0945, Temuco, Región de La Araucanía, Chile"
+20074,296,Cine,Cinépolis,Paseo Costanera Puerto Montt
+20075,296,Estadio,Estadio Regional de Chinquihue,"Guillermo Gallardo 609, Puerto Montt, Chile"
+20076,305,Cine,Cinépolis,Paseo Chiloé
+20077,305,Estadio,Estadio Fiscal Tucapel Bustamante Lastra,"Alejandro Tapia 1, Castro, Chile"
+20078,1,Cine,CineMark,"Av. Diego Portales 640, Local 300"
+20079,1,Estadio,Estadio Carlos Dittborn,"21 de Mayo 2495, Arica, Chile"
+20080,1,Estadio,Estadio El Morro,"Avenida Arturo Prat Chacón 577, Arica, Chile"
+20081,1,Casino,Casino de Arica,"2522, 21 de Mayo, Arica, Región de Arica y Parinacota, Chile"
+20082,1,Casino,Casino Luckia Arica,"Vicuña Mackenna 20, Arica, Región de Arica y Parinacota, Chile"
+20083,5,Cine,CineMark,"Av. Heroes de la Concepcion 2555, Local 1"
+20084,5,Estadio,Estadio Tierra de Campeones,"Av. Salvador Allende Gossens 3301, Iquique, Chile"
+20085,5,Casino,Dreams Iquique,"Av. Arturo Prat 2755, Iquique, Región de Tarapacá, Chile"
+20086,30,Cine,CineMark,Huanhuali 105 107
+20087,30,Estadio,Estadio La Portada,"Av. Amunátegui 1001, La Serena, Chile"
+20088,51,Cine,CineMark,"Av. Benirdorm 961, Pob. Vergara"
+20089,51,Estadio,Estadio Sausalito,"Av. Padre Hurtado 875, Viña del Mar, Chile"
+20090,51,Casino,Enjoy Viña del Mar,"Av. San Martín 199, Viña del Mar, Región de Valparaíso, Chile"
+20091,89,Cine,CineMark,"Av. Américo Vespucio 1737, Local C6"
+20092,84,Cine,CineMark,"Av. Americo Vespucio 1501, Local CN 100, 200, 300"
+20093,135,Cine,CineMark,Teniente Coronel José Bernardo Cuevas 405
+20094,135,Cine,CineMark,"Av. San Jpaquin 10, Camino a Conchalí "
+20095,135,Estadio,Estadio El Teniente,"Camino a Machalí 210, Rancagua, Chile"
+20096,228,Cine,CineMark,"Av. Alessandri 3177, Local B 107"
+20097,228,Estadio,Estadio Rubén Marcos Peralta,"Avenida Manuel Blanco Encalada 5600, Talcahuano, Chile"
+20098,228,Casino,Marina del Sol,"Calle A 909, Talcahuano, Región del Biobío, Chile"
+20099,219,Cine,CineMark,"Los Carrea Poniente 301, Local CN200"
+20100,219,Cine,CinePlanet,Barros Arana 1068 Local 5001
+20101,219,Estadio,Estadio Ester Roa Rebolledo,"Collao 390, Concepción, Chile"
+20102,220,Cine,CineMark,Av. Carlos Prats 0901
+20103,220,Estadio,Estadio Federico Schwager,"Arturo Prat 990, Coronel, Chile"
+20104,315,Cine,CineMark,"Plaza Yungay 609, 4to piso"
+20105,315,Casino,Marina del Sol Osorno,"Ejército 395, Osorno, Región de Los Lagos, Chile"
+20106,21,Cine,CinePlanet,Calle Maipu 0110
+20107,21,Estadio,Estadio Luis Valenzuela Hermosilla,"Ruta 5 1345, Copiapó, Chile"
+20108,21,Casino,Antay Casino & Hotel,"Los Carrera 2440, Copiapó, Región de Atacama, Chile"
+20109,181,Cine,CinePlanet,Av. Ohiggins 201
+20110,181,Estadio,Estadio La Granja,"Avenida Manuel Rodríguez 30, Curicó, Chile"
+20111,181,Estadio,Estadio Fiscal Manuel Moya Medel,"Camilo Henríquez 631, Curicó, Chile"
+20112,181,Estadio,Estadio Alberto Larraguibel,"Carrera 218, Curicó, Chile"
+20113,181,Estadio,Estadio Municipal Raúl Vargas Verdejo,"Luis Cruz Martínez 303, Curicó, Chile"
+20114,90,Cine,CinePlanet,Av. Independencia 565
+20115,90,Estadio,Estadio Santa Laura - Universidad SEK,"Av. Santa Rosa 106, Independencia, Santiago, Chile"
+20116,104,Cine,CinePlanet,Mar Tirreno 3349 Local 2022
+20117,284,Cine,CinePlanet,"Plaza Los Rios, Arauco 561"
+20118,284,Casino,Dreams Valdivia,"Carampangue 190, Valdivia, Región de Los Ríos, Chile"
+20119,100,Estadio,Estadio Monumental David Arellano,"Marathon 5300, Macul, Santiago, Chile"
+20120,230,Estadio,Estadio Huachipato-CAP Acero,"Ruta Interportuaria 1001, Hualpén, Chile"
+20121,73,Estadio,Estadio Municipal de San Felipe,"Huallipén 292, San Felipe, Chile"
+20122,91,Estadio,Estadio Municipal de La Cisterna,"Avenida Departamental 4040, La Cisterna, Santiago, Chile"
+20123,79,Estadio,Estadio Municipal Lucio Fariña Fernández,"San Martín 850, Quilpué, Chile"
+20124,99,Estadio,Estadio Municipal Jorge Silva Valenzuela,"La Nación 3429, Lo Prado, Santiago, Chile"
+20125,94,Estadio,Estadio Municipal de La Pintana,"Avenida José Luis Coo 2733, La Pintana, Santiago, Chile"
+20126,35,Estadio,Estadio Diaguita,"Ruta 41, Vicuña, Chile"
+20127,215,Estadio,Estadio Municipal Doctor Olegario Henríquez Escalante,"Tres Esquinas 101, Coihueco, Chile"
+20128,69,Estadio,Estadio Municipal Nelson Rojas,"César Ercilla 395, Cartagena, Chile"
+20129,53,Estadio,Estadio Parque Municipal,"Avenida Santa Teresa 599, Los Andes, Chile"
+20130,53,Estadio,Estadio Regional de Los Andes,"Avenida Argentina 2291, Los Andes, Chile"
+20131,122,Estadio,Estadio Lautaro de Buin,"Maipo Sur 640, Buin, Chile"
+20132,111,Estadio,Estadio Municipal de San Joaquín,"San Carlos 0452, San Joaquín, Santiago, Chile"
+20133,67,Casino,Enjoy San Antonio,"Av. Barros Luco 105, San Antonio, Región de Valparaíso, Chile"
+20134,167,Casino,Casino Colchagua,"Av. Errázuriz 255, Santa Cruz, Región de O'Higgins, Chile"
+20135,266,Casino,Enjoy Pucón,"Miguel Ansorena 121, Pucón, Región de La Araucanía, Chile"
+20136,304,Casino,Dreams Puerto Varas,"Del Salvador 21, Puerto Varas, Región de Los Lagos, Chile"
+20137,326,Casino,Dreams Coyhaique,"Av. Baquedano 123, Coyhaique, Región de Aysén del General Carlos Ibáñez del Campo, Chile"
+20138,336,Casino,Dreams Punta Arenas,"O'Higgins 1235, Punta Arenas, Región de Magallanes y de la Antártica Chilena, Chile"
