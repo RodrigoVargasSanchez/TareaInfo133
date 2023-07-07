@@ -18,6 +18,10 @@ La base de datos se organiza en las siguientes tablas:
 
 6. `Indicadores`: La tabla "Indicadores" está relacionada de forma 1:1 con la tabla "Comunas" y almacena indicadores específicos para cada comuna, como la cantidad de centros de entretenimiento, centros educativos, proporción laboral, cantidad de centros de salud y un indicador total que representa el promedio de todos los indicadores anteriores.
 
+7. `Pais`: La tabla "Pais" almacena los datos correspondientes a paises, en este caso es Chile. También se les agrega una id.
+
+8. `Región`: La tabla "Region" almacena los datos correspondientes a regiones por pais, ademàs se almacenan las ciudades que contiene cada región.
+
 ## Versión del Motor de Base de Datos
 
 La base de datos ha sido implementada utilizando el motor de base de datos relacional MariaDB versión 11.1.0.
