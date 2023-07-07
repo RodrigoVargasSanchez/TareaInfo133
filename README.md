@@ -30,9 +30,13 @@ Para utilizar esta base de datos, sigue los siguientes pasos:
 
 2. Descarga los archivos de la base de datos desde el repositorio (https://github.com/RodrigoVargasSanchez/TareaInfo133.git).
 
-3. Crea una nueva base de datos en MariaDB y carga los archivos contenidos en la carpeta datos.
+3. Crea una nueva base de datos en MariaDB y asignar los permisos correspondiente al usuario.
 
-4. Accede a la base de datos recién creada y comienza a realizar consultas para obtener información sobre las comunas, su entretenimiento, trabajo, salud y educación.
+4. Cambiar en /programa_carga.py el usuario, la contraseña, y el nombre de la base de datos.
+
+5. Carga los archivos contenidos en la carpeta datos.
+
+6. Accede a la base de datos recién creada y comienza a realizar consultas para obtener información sobre las comunas, su entretenimiento, trabajo, salud y educación.
 
 ## Indicadores
 
